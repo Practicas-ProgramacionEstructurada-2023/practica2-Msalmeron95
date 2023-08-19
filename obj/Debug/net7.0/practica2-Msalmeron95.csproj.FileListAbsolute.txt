@@ -1,0 +1,15 @@
+C:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.csproj.AssemblyReference.cache
+C:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.AssemblyInfoInputs.cache
+C:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.AssemblyInfo.cs
+C:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.csproj.CoreCompileInputs.cache
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\bin\Debug\net7.0\practica2-Msalmeron95.exe
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\bin\Debug\net7.0\practica2-Msalmeron95.deps.json
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\bin\Debug\net7.0\practica2-Msalmeron95.runtimeconfig.json
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\bin\Debug\net7.0\practica2-Msalmeron95.dll
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\bin\Debug\net7.0\practica2-Msalmeron95.pdb
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.dll
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\refint\practica2-Msalmeron95.dll
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.pdb
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\practica2-Msalmeron95.genruntimeconfig.cache
+c:\Users\Msalmeron\github-classroom\Practicas-ProgramacionEstructurada-2023\practica2-Msalmeron95\obj\Debug\net7.0\ref\practica2-Msalmeron95.dll
