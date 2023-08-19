@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj": {}
+    "c:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj": {
+    "c:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj",
+        "projectUniqueName": "c:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj",
         "projectName": "practica2-Msalmeron95",
-        "projectPath": "C:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj",
+        "projectPath": "c:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\practica2-Msalmeron95.csproj",
         "packagesPath": "C:\\Users\\Msalmeron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\obj\\",
+        "outputPath": "c:\\Users\\Msalmeron\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica2-Msalmeron95\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
