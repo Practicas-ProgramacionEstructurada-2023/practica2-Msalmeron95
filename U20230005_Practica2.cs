@@ -79,13 +79,12 @@ namespace MyApp// Note: actual namespace depends on the project name.
            string? funcionMayuscula1 = nombre.ToUpper();
            string? funcionMayuscula2 = apellido.ToUpper();
 
+            //Funcion de cadena
+           string? cadenaConcatenada = nombre + " " + apellido;
 
            //Funcion  de tamaño de cadena
            int iilongituCadena1=nombre.Length;
            int iilongituCadena2=apellido.Length;
-           
-           //Funcion de cadena
-           string? cadenaConcatenada = nombre + " " + apellido;
 
            Console.WriteLine("Comparacion: " + cadenaComparativa);
            Console.WriteLine("Mayuscula Nombre y Apellido: " + funcionMayuscula1 + " " + funcionMayuscula2);
