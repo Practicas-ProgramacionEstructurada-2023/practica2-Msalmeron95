@@ -21,7 +21,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
            int AñoIngreso = 2023;
            int AñoEgreso = 2028;
 
-           //Declaracion de variables desimales capturando desde la terminal
+           //Declaracion de variables decimales capturando desde la terminal
            double mensualidad;
 
            //Declaracion de variable decimales desde codigo
